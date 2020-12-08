@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { ORGS } from 'src/app/constants/orgs';
+import { ORGS } from '../../constants/orgs';
 
 @Component({
   selector: 'app-child-one',
