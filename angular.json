@@ -104,6 +104,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ng-convenient-catch-all-routing"
+    }
+  },
+  "defaultProject": "ng-convenient-catch-all-routing",
+  "cli": {
+    "analytics": "fedb4719-50cc-40e8-aa5b-0123650ae8ec"
+  }
 }
